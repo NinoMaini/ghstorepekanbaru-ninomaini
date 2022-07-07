@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-item h5, p{
+    color: black;
+}
+
+.container-fluid .navbar-nav a:hover {
+    background-color: orange;
+}
+
+.carousel-item {
+
+}
